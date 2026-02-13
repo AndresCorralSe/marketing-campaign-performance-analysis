@@ -30,6 +30,12 @@ Simulated dataset including:
 ## Business Impact
 This analysis can be used to optimize marketing budget allocation, improve campaign performance, and refine audience targeting strategies.
 
+## Notebook
+
+You can find the full analysis in the Jupyter Notebook here:  
+[Open notebook](marketing_campaign_analysis.ipynb)
+
+
 ## Visualizations
 
 ### ROI by Channel
