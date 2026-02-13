@@ -33,11 +33,13 @@ This analysis can be used to optimize marketing budget allocation, improve campa
 ## Visualizations
 
 ### ROI by Channel
-TikTok and Google Ads show the highest average ROI, suggesting better budget allocation opportunities.
+Social media channels show the highest ROI, making them strong candidates for budget reallocation compared to email marketing.
 ![ROI by Channel](images/roi.png)
 
 ### Revenue by Campaign
+Discount-based campaigns outperform seasonal and launch campaigns in total revenue, indicating higher price sensitivity in the audience.
 ![Revenue by Campaign](images/revenue_by_campaign.png)
 
 ### Conversions by Age Segment
+Younger audiences (18–35) generate the highest number of conversions, suggesting stronger product–market fit in these segments.
 ![Conversions by Age Segment](images/conversions_by_age_segment.png)
