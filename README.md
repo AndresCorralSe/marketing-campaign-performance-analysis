@@ -45,7 +45,7 @@ This visualization shows the average ROI for each marketing channel. Channels su
 ### Revenue by Campaign
 This bar chart illustrates total revenue by campaign type. Discount-based campaigns like “Descuento10” drive the most revenue, while product launch campaigns perform lower.
 ![Revenue by Campaign](images/revenue_by_campaign.png)
-![Revenue by Campaign](images/revenue_by_campaign.png)
+
 
 ### Conversions by Age Segment
 Here we see total conversions distributed by age group. Younger segments (18–35) generate the most conversions, indicating stronger engagement and interest from these audiences.
