@@ -32,3 +32,15 @@ Simulated dataset including:
 
 ## Business Impact
 This analysis can be used to optimize marketing budget allocation, improve campaign performance, and refine audience targeting strategies.
+
+## Visualizations
+
+### ROI by Channel
+TikTok and Google Ads show the highest average ROI, suggesting better budget allocation opportunities.
+![ROI by Channel](images/roi.png)
+
+### Revenue by Campaign
+![Revenue by Campaign](images/revenue_by_campaign)
+
+### Conversions by Age Segment
+![Conversions by Age Segment](images/conversions_by_age_segment.png)
