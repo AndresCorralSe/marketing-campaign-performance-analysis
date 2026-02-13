@@ -33,7 +33,7 @@ This analysis can be used to optimize marketing budget allocation, improve campa
 ## Notebook
 
 You can find the full analysis in the Jupyter Notebook here:  
-[Open notebook](marketing_campaign_analysis.ipynb)
+[Open notebook](campaign_analysis.ipynb)
 
 
 ## Visualizations
