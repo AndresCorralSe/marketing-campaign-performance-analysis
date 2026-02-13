@@ -40,7 +40,7 @@ TikTok and Google Ads show the highest average ROI, suggesting better budget all
 ![ROI by Channel](images/roi.png)
 
 ### Revenue by Campaign
-![Revenue by Campaign](images/revenue_by_campaign)
+![Revenue by Campaign](images/revenue_by_campaign.png)
 
 ### Conversions by Age Segment
 ![Conversions by Age Segment](images/conversions_by_age_segment.png)
