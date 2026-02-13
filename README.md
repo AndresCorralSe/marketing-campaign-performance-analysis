@@ -4,15 +4,14 @@
 Evaluate the performance of digital marketing campaigns using key business metrics such as CTR, conversion rate, ROI, and CPA to identify the most profitable channels, campaigns, and age segments.
 
 ## Dataset
-Simulated dataset including:
-- Impressions  
-- Clicks  
-- Conversions  
-- Spend  
-- Revenue  
-- Channel  
-- Campaign  
-- Age segment  
+This dataset simulates marketing campaign performance including:
+- campaign_name
+- channel
+- age_segment
+- conversions
+- revenue
+- cost
+The goal is to analyze which campaigns and channels generate the highest ROI.
 
 ## Process
 - Data cleaning and validation  
