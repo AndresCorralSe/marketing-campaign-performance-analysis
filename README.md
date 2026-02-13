@@ -33,13 +33,26 @@ This analysis can be used to optimize marketing budget allocation, improve campa
 ## Visualizations
 
 ### ROI by Channel
-Social media channels show the highest ROI, making them strong candidates for budget reallocation compared to email marketing.
+This visualization shows the average ROI for each marketing channel. Channels such as Facebook, Instagram, and TikTok deliver the highest ROI, suggesting they are more cost-effective for budget allocation.
 ![ROI by Channel](images/roi.png)
 
 ### Revenue by Campaign
-Discount-based campaigns outperform seasonal and launch campaigns in total revenue, indicating higher price sensitivity in the audience.
+This bar chart illustrates total revenue by campaign type. Discount-based campaigns like “Descuento10” drive the most revenue, while product launch campaigns perform lower.
+![Revenue by Campaign](images/revenue_by_campaign.png)
 ![Revenue by Campaign](images/revenue_by_campaign.png)
 
 ### Conversions by Age Segment
-Younger audiences (18–35) generate the highest number of conversions, suggesting stronger product–market fit in these segments.
+Here we see total conversions distributed by age group. Younger segments (18–35) generate the most conversions, indicating stronger engagement and interest from these audiences.
 ![Conversions by Age Segment](images/conversions_by_age_segment.png)
+
+## Business Recommendations
+
+- Allocate more budget to high-ROI channels like Facebook, Instagram, and TikTok.
+- Focus promotional campaigns (e.g., discounts) on younger segments (18–35) for higher conversions and revenue.
+- Reevaluate underperforming campaigns to discover potential messaging or targeting improvements.
+- Consider optimizing email marketing with personalization to improve ROI.
+
+## Conclusion
+
+By evaluating key performance indicators (CTR, conversion rate, ROI, and CPA), this analysis identifies the most effective marketing channels, campaigns, and audience segments. These insights can serve as a foundation for better budget allocation and strategic marketing decisions.
+
